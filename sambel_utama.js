@@ -21,18 +21,17 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*12)+ 1);
 var xxx=null;
-if(x=="1"){xxx="ads.html"}
-if(x=="2"){xxx="beauty.html"}
-if(x=="3"){xxx="fitnes.html"}
-if(x=="4"){xxx="sales.html"}
-if(x=="5"){xxx="botox.html"}
-if(x=="6"){xxx="xp.html"}
-if(x=="7"){xxx="party.html"}
-if(x=="8"){xxx="codese.html"}
-if(x=="9"){xxx="anna.html"}
-if(x=="10"){xxx="why.html"}
-if(x=="11"){xxx="road.html"}
-if(x=="12"){xxx="passa.html"}a_to_ve[i].href="https://safelinkbarukuy.blogspot.com/2019/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="2"){xxx="ads.html"}
+if(x=="3"){xxx="beauty.html"}
+if(x=="4"){xxx="fitnes.html"}
+if(x=="5"){xxx="sales.html"}
+if(x=="6"){xxx="botox.html"}
+if(x=="7"){xxx="xp.html"}
+if(x=="8"){xxx="party.html"}
+if(x=="9"){xxx="codese.html"}
+if(x=="10"){xxx="anna.html"}
+if(x=="11"){xxx="why.html"}
+if(x=="12"){xxx="road.html"}a_to_ve[i].href="https://safelinkbarukuy.blogspot.com/2019/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
