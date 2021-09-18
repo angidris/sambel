@@ -31,7 +31,7 @@ if(x=="8"){xxx="party.html"}
 if(x=="9"){xxx="codese.html"}
 if(x=="10"){xxx="anna.html"}
 if(x=="11"){xxx="why.html"}
-if(x=="12"){xxx="road.html"}a_to_ve[i].href="https://safelinkbarukuy.blogspot.com/2019/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="12"){xxx="road.html"}a_to_ve[i].href="http://www.wallpaperide.com/2019/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
